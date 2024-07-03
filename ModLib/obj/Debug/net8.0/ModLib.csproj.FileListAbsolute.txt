@@ -1,0 +1,11 @@
+C:\Code\C#\ModLoader\ModLib\bin\Debug\net8.0\ModLib.deps.json
+C:\Code\C#\ModLoader\ModLib\bin\Debug\net8.0\ModLib.dll
+C:\Code\C#\ModLoader\ModLib\bin\Debug\net8.0\ModLib.pdb
+C:\Code\C#\ModLoader\ModLib\obj\Debug\net8.0\ModLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\ModLoader\ModLib\obj\Debug\net8.0\ModLib.AssemblyInfoInputs.cache
+C:\Code\C#\ModLoader\ModLib\obj\Debug\net8.0\ModLib.AssemblyInfo.cs
+C:\Code\C#\ModLoader\ModLib\obj\Debug\net8.0\ModLib.csproj.CoreCompileInputs.cache
+C:\Code\C#\ModLoader\ModLib\obj\Debug\net8.0\ModLib.dll
+C:\Code\C#\ModLoader\ModLib\obj\Debug\net8.0\refint\ModLib.dll
+C:\Code\C#\ModLoader\ModLib\obj\Debug\net8.0\ModLib.pdb
+C:\Code\C#\ModLoader\ModLib\obj\Debug\net8.0\ref\ModLib.dll

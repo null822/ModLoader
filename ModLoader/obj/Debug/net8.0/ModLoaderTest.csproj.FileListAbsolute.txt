@@ -1,0 +1,14 @@
+C:\Code\C#\ModLoaderTest\ModLoaderTest\bin\Debug\net8.0\ModLoaderTest.exe
+C:\Code\C#\ModLoaderTest\ModLoaderTest\bin\Debug\net8.0\ModLoaderTest.deps.json
+C:\Code\C#\ModLoaderTest\ModLoaderTest\bin\Debug\net8.0\ModLoaderTest.runtimeconfig.json
+C:\Code\C#\ModLoaderTest\ModLoaderTest\bin\Debug\net8.0\ModLoaderTest.dll
+C:\Code\C#\ModLoaderTest\ModLoaderTest\bin\Debug\net8.0\ModLoaderTest.pdb
+C:\Code\C#\ModLoaderTest\ModLoaderTest\obj\Debug\net8.0\ModLoaderTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\ModLoaderTest\ModLoaderTest\obj\Debug\net8.0\ModLoaderTest.AssemblyInfoInputs.cache
+C:\Code\C#\ModLoaderTest\ModLoaderTest\obj\Debug\net8.0\ModLoaderTest.AssemblyInfo.cs
+C:\Code\C#\ModLoaderTest\ModLoaderTest\obj\Debug\net8.0\ModLoaderTest.csproj.CoreCompileInputs.cache
+C:\Code\C#\ModLoaderTest\ModLoaderTest\obj\Debug\net8.0\ModLoaderTest.dll
+C:\Code\C#\ModLoaderTest\ModLoaderTest\obj\Debug\net8.0\refint\ModLoaderTest.dll
+C:\Code\C#\ModLoaderTest\ModLoaderTest\obj\Debug\net8.0\ModLoaderTest.pdb
+C:\Code\C#\ModLoaderTest\ModLoaderTest\obj\Debug\net8.0\ModLoaderTest.genruntimeconfig.cache
+C:\Code\C#\ModLoaderTest\ModLoaderTest\obj\Debug\net8.0\ref\ModLoaderTest.dll

@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ModLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ModLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModLib/1.0.0": {
+      "type": "project",
+      "path": "../ModLib/ModLib.csproj",
+      "msbuildProject": "../ModLib/ModLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ModLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\noahk\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Code\\C#\\ModLoader\\Game\\Game.csproj",
+      "projectName": "Game",
+      "projectPath": "C:\\Code\\C#\\ModLoader\\Game\\Game.csproj",
+      "packagesPath": "C:\\Users\\noahk\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\C#\\ModLoader\\Game\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\noahk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Code\\C#\\ModLoader\\ModLib\\ModLib.csproj": {
+              "projectPath": "C:\\Code\\C#\\ModLoader\\ModLib\\ModLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.106/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
